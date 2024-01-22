@@ -898,3 +898,9 @@ footer .credit a {
         font-size: 55%;
     }
 }
+
+
+.register {
+    color: var(--primary);
+    position: relative;
+}
